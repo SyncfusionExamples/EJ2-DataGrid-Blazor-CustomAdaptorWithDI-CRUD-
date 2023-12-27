@@ -12,3 +12,5 @@ This sample explains about how to bind Blazor DataGrid data using CustomAdaptor 
 * Open the solution file using the Visual Studio 2022.
 * Restore the NuGet packages by rebuilding the solution.
 * Run the project.
+
+**NOTE**: Ensure to modify the path of NORTHWIND.MDF in OrderContext.cs based on your local path, before running the sample.
