@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to bind a Syncfusion Blazor DataGrid using a custom adaptor registered through Dependency Injection (DI). The implementation supports Create, Read, Update, and Delete (CRUD) operations while processing grid requests through custom server-side logic instead of relying on built-in data adaptors. The sample also demonstrates integrating sorting and filtering operations into the custom adaptor workflow, providing full control over how grid data is queried, transformed, and persisted. This approach is useful when an application requires custom business logic, database access patterns, or service-based data processing that extends beyond the capabilities of the built-in adaptors.
+This sample demonstrates how to bind a Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) using a custom adaptor registered through Dependency Injection (DI). The implementation supports Create, Read, Update, and Delete (CRUD) operations while processing grid requests through custom server-side logic instead of relying on built-in data adaptors. The sample also demonstrates integrating sorting and filtering operations into the custom adaptor workflow, providing full control over how grid data is queried, transformed, and persisted. This approach is useful when an application requires custom business logic, database access patterns, or service-based data processing that extends beyond the capabilities of the built-in adaptors.
 
 ## Key Features
 
